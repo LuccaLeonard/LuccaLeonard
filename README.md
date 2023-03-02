@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=200&section=header&text=Lucca+Leonardo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<h1 align="center" >Olá, me chamo Lucca!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-
 
 <div align = "center">
   <a href="https://LuccaLeonard">
