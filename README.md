@@ -1,6 +1,7 @@
 <h1 align="center" >
   Olá, me chamo Lucca!  
-  <img src="https://gifs.alphacoders.com/gifs/by_tag/47907" width="100px">
+  <img ![217681](https://user-images.githubusercontent.com/66518467/222584038-d14686e6-a5a5-4c14-8f7c-dbc54bb69fe3.gif)
+ width="100px">
 </h1>
 <br>
 
