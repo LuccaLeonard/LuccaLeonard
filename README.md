@@ -1,6 +1,6 @@
 <h1 align="center" >
   Olá, me chamo Lucca!  
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100px">
+  <img src="https://gifs.alphacoders.com/gifs/by_tag/47907" width="100px">
 </h1>
 <br>
 
