@@ -3,10 +3,10 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 
-<div>
+<div align = "center">
   <a href="https://LuccaLeonard">
-    <img width = "400px" height = "400px" src="https://github-readme-stats.vercel.app/api?username=LuccaLeonard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width = "400px" height = "400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaLeonard&layout=compact&langs_count=16&theme=dark"/>
+    <img width = "400px" src="https://github-readme-stats.vercel.app/api?username=LuccaLeonard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaLeonard&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
