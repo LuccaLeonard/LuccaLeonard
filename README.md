@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=200&section=header&text=Lucca+Leonardo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Leonardo+;Tenho+19+anos+!+:%29)](https://git.io/typing-svg)
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 
 <div>
