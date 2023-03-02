@@ -19,7 +19,7 @@
 
 <h2 align="center"> Contate-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
+<p align="center" width = "100px">
 <a href="https://www.instagram.com/its_luccaa/">
  <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its_luccaa/"/>
 </a>
