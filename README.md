@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="instagram">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its_luccaa/"/>
+ <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its_luccaa/"/>
 </a>
 <a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
