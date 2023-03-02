@@ -1,4 +1,4 @@
-<h1 align="center" >Olá, me chamo Lucca!  <img src="https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif" width="40px"></h1>
+<h1 align="center" >Olá, me chamo Lucca!  <img src="https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif" width="60px"></h1>
 <br>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
