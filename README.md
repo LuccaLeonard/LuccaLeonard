@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="mailto: luccaleonardo1002@gmail.com">
- <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=luccaleonardo1002@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=luccaleonardo1002@gmail.com" width = "80px"/>
 </a>
 <a href="https://www.instagram.com/its_luccaa/">
  <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its_luccaa/" width = "80px"/>
