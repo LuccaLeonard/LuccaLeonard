@@ -20,8 +20,8 @@
 <h2 align="center"> Redes Sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="Lucca: luccaleonardo1002@gmail.com">
- <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=lucca:luccaleonardo1002@gmail.com"/>
+<a href="mailto: luccaleonardo1002@gmail.com">
+ <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=luccaleonardo1002@gmail.com"/>
 </a>
 <a href="https://www.instagram.com/its_luccaa/">
  <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its_luccaa/" width = "80px"/>
