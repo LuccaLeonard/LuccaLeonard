@@ -1,15 +1,23 @@
-<h1 align="center" >
-  Olá, me chamo Lucca!
-</h1>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Lucca%20Leonardo&height=150&fontSize=60&desc=Dev(endo)&descAlignY=75&descAlign=60)
+
 <br>
 
+
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
+  <br> 
+  
 
 <div align = "center">
   <a href="https://LuccaLeonard">
     <img width = "400px" src="https://github-readme-stats.vercel.app/api?username=LuccaLeonard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img width = "440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaLeonard&layout=compact&langs_count=16&theme=dark"/>
-</div>
+    </div>
+  
+  <br> 
+  <br> 
+  <br> 
+  <br> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
