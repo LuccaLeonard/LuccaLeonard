@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Lucca%20Leonardo&height=150&fontSize=60&desc=Dev(endo)&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Lucca%20Leonardo&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
 
 <br>
 
