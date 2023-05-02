@@ -16,19 +16,6 @@
   
   <br> 
   <br> 
-  <br> 
-  <br> 
-  
-<div align="center">
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
-</div>
-
-  <br>
-  <br>
-
 <h2 align="center"> Redes Sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
