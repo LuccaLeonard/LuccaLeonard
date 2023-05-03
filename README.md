@@ -1,11 +1,13 @@
-<h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" height="30px"> </h1> 
-<h4>
-🚀 Desenvolvedor de Software <br>
-📓 Atualmente cursando Análise e Desenvolvimentos de Sistemas - SENAC <br>
-<h4>
-  
-#
-  
+
+<h1 align="center"> Bem vindo ao meu Github <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif"><br>
+  <h4>
+  🚀 Desenvolvedor de Software <br>
+  📓 Atualmente cursando Análise e Desenvolvimentos de Sistemas - SENAC <br>
+  </h4>
+ <h1>
+   
+<br>
+
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
   <br> 
