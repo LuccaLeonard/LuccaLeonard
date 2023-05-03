@@ -1,8 +1,11 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Lucca%20Leonardo&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
-
-<br>
-
-
+<h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" height="30px"> </h1> 
+<h4>
+🚀 Desenvolvedor de Software <br>
+📓 Atualmente cursando Análise e Desenvolvimentos de Sistemas - SENAC <br>
+<h4>
+  
+#
+  
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
   <br> 
@@ -14,9 +17,25 @@
     <img width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaLeonard&layout=compact&langs_count=16&theme=dark"/>
     </div>
   
-  <br> 
-  <br> 
-<h2 align="center"> Redes Sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+  #
+  
+  <h4 align="center">
+      Tenho experiência com as linguagens:
+  </h4>
+ 
+ <!--Imagens das linguagens-->
+   <p align="center">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  </p>
+  
+  #
+  
+<h2 align="center"> Redes Sociais: <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
+<br>
+<br>
 
 <p align="center">
 <a href="mailto: luccaleonardo1002@gmail.com">
@@ -29,8 +48,4 @@
  <img src="https://img.shields.io/badge/-Lucca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-leonardo-537593214/"width = "80px"/>
 </a>
 </p>
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuccaLeonard}/count.svg" /></p> 
-<br></div> 
+</h2>
