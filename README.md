@@ -26,7 +26,7 @@
   </h4>
  
  <!--Imagens das linguagens-->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,node,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,node&theme=light,tailwind,bootstrap)](https://skillicons.dev)
 
   
   #
