@@ -47,7 +47,7 @@
  <img src="https://img.shields.io/badge/-Lucca-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its_luccaa/" width = "80px"/>
 </a>
 <a href="https://www.linkedin.com/in/lucca-leonardo-537593214/">
- <img src="https://img.shields.io/badge/-Lucca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-leonardo-537593214/"width = "80px" height="25px"/>
+ <img src="https://img.shields.io/badge/-Lucca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-leonardo-537593214/"width = "80px" height="27px"/>
 </a>
 </p>
 </h2>
