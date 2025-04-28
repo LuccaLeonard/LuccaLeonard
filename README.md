@@ -21,7 +21,7 @@
   #
   
   <h4 align="center">
-      Tenho experiência com as linguagens:
+      Tenho experiência com as tecnologias:
   </h4>
  
  <!--Imagens das linguagens-->
