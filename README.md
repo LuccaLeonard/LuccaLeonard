@@ -11,12 +11,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
   <br> 
-  
 
-<div align = "center">
-  <a href="https://LuccaLeonard">
-    <img width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaLeonard&layout=compact&langs_count=16&theme=dark"/>
-    </div>
   
   #
   
