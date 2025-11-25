@@ -13,8 +13,6 @@
   <br> 
 
   
-  #
-  
   <h4 align="center">
       Tenho experiência com as tecnologias:
   </h4>
